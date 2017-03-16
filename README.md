@@ -8,7 +8,7 @@ The app also creates the dictionary file ```dic_file-name.txt```, saves the prog
 
 ### About the program ###
 * Version 003
-* autor [tevtonez](mailto: tevtonez@gmail.com)
+* autor tevtonez
 
 ### How do I get set up? ###
 
